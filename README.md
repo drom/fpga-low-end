@@ -7,4 +7,4 @@ BOM estimate for low end FPGA soluton
 | Lattice | iCE40 Ultra+ | ICE40UP3K | 30WLCSP | 2.8K | 4   | 1Mb   | 5  | [digikey](https://www.digikey.com/short/30r20j) |
 
 
-![ISA](https://rawgit.com/drom/fpga-low-end/master/m164.svg)
+![m164](https://rawgit.com/drom/fpga-low-end/master/m164.svg)
